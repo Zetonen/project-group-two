@@ -1,1 +1,9 @@
-
+.hero {
+  background-color: tomato;
+}
+.hero-title {
+}
+.swiper {
+  width: 600px;
+  height: 300px;
+}
