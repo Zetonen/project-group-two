@@ -10,7 +10,7 @@ export default defineConfig({
       input: {
         main: resolve(__dirname, 'src/index.html'),
         nested: resolve(__dirname, 'src/second.html'),
-        nested: resolve(__dirname, 'src/next.html'),
+        nested_2: resolve(__dirname, 'src/next.html'),
       },
     },
     outDir: '../dist',
